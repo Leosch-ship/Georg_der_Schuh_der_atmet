@@ -1,0 +1,4 @@
+discord.py==2.4.0
+yt-dlp==2024.10.7
+python-dotenv==1.0.0
+Flask==2.0.0
